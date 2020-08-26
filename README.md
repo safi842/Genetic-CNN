@@ -16,4 +16,9 @@ Algorithm and after a few generations, the algorithm will properly find better
 hyperparameters for the CNN.
 
 ![](https://github.com/safi842/Genetic-CNN/blob/master/imgs/init%20scheme.JPG?raw=true)
-For more info read : [Assignment](https://github.com/safi842/Genetic-CNN/blob/master/Genetic-CNN.pdf)
+
+
+
+
+
+#### For more info read : [Assignment](https://github.com/safi842/Genetic-CNN/blob/master/Genetic-CNN.pdf)
