@@ -14,3 +14,5 @@ intervention. A group of hyperparameters is constructed (chromosome) and these
 are again grouped to form a population. This population goes through a Genetic
 Algorithm and after a few generations, the algorithm will properly find better
 hyperparameters for the CNN.
+
+![](https://github.com/safi842/Genetic-CNN/blob/master/imgs/init%20scheme.JPG?raw=true)
