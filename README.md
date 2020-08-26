@@ -1,4 +1,4 @@
-# Genetic-CNN
+# Genetic Algorithm for Transfer Learning in a deep CNN
 ## Abstract
 Convolutional Neural Networks (CNN) are extremely effective for image
 recognition tasks, and they have become popular in recent years. Most state-of-theart CNN architectures are designed manually with domain expertise. Designing the
